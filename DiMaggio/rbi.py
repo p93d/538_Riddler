@@ -1,3 +1,6 @@
+# https://fivethirtyeight.com/features/can-the-riddler-bros-beat-joe-dimaggios-hitting-streak/
+
+
 import numpy as np
 import itertools
 
